@@ -1,1 +1,13 @@
 # inanimateobject1.github.io
+
+ABOUT
+
+
+SOFTWARES USED
+
+
+INSTALLATION
+
+
+
+IMPLEMENTATION
